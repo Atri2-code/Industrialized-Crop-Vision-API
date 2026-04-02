@@ -1,1 +1,4 @@
-# Industrialized-Crop-Vision-API
+fastapi==0.103.1
+uvicorn==0.23.2
+python-multipart==0.0.6
+pytest==7.4.2
